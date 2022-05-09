@@ -32,7 +32,7 @@ To connect virtually: christiansmith2394@gmail.com
                         <p>: 28</p>
                         <p>: English</p>
                         <p>: Javascript, React.js, React Native HTML, CSS, Sass, Python</p>
-                        <p>: Tampa, FL</p>
+                        <p>: Ventnor City, NJ</p>
                         <p>: Fullstack Developer</p>
                     </div>
                 </div>

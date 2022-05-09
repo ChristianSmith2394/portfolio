@@ -8,23 +8,23 @@ import port7 from '../img/portImages/port6.jpg';
 const portfolios = [
     {
         id: 1,
-        category: 'Animation',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        category: 'React Js',
+        link1: 'https://ecom-store-cs94.web.app/',
+        link2: 'https://github.com/ChristianSmith2394/ecom-store',
+        icon1: 'W',
+        icon2: 'G',
         image: port1,
-        title: 'Autodesk Maya'
+        title: 'Amazon Clone'
     },
     {
         id: 2,
-        category: 'Python',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
-        icon1: 'G',
-        icon2: 'Y',
+        category: 'React Js',
+        link1: 'https://netflix-clone-2374a.web.app/',
+        link2: 'https://github.com/ChristianSmith2394/netflix-clone',
+        icon1: 'W',
+        icon2: 'G',
         image: port2,
-        title: 'Python Web Scrapping'
+        title: 'Netflix Clone'
     },
     {
         id: 3,
