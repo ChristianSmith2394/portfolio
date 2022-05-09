@@ -10,9 +10,12 @@ function ImageSection() {
             <div className="about-info">
                 <h4>I am<span> Christian Smith</span></h4>
                 <p className="about-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Voluptatum necessitatibus perferendis numquam dolorem cumque facilis.
-                    Desir per po la ta doso vi slone ve?
+                I’m a Fullstack Developer who is passionate about the JavaScript ecosystem. I am most skilled and passionate about Node (Express) and React. <br/>
+
+Growing up I've always been interested in technology and creating/building things. My passion began with building things out of Lego's, K'Nex, etc. My dream career position is Fullstack Development that focuses on Javascript, Node, React and SQLite3. <br/>
+
+To see my portfolio: https://github.com/ChristianSmith2394 <br/>
+To connect virtually: christiansmith2394@gmail.com
                 </p>
                 <div className="about-details">
                     <div className="left-section">
