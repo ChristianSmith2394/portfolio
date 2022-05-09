@@ -18,7 +18,7 @@
             font-size: 2rem;
         }
         .about-text{
-            padding: 1rem 0;
+            padding: 3rem 0;
         }
     }
     @media screen and (max-width: 1400px){
@@ -33,6 +33,7 @@
 
 .about-details{
     display: flex;
+    margin-bottom: 3rem;
     p{
         padding: .3rem 0;
     }

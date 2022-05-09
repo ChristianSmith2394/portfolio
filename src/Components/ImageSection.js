@@ -1,5 +1,6 @@
 import React from 'react';
 import about from '../img/about.jpg';
+import myResume from '../resume/CompletedResume.pdf'
 
 function ImageSection() {
     return (
@@ -35,7 +36,7 @@ To connect virtually: christiansmith2394@gmail.com
                         <p>: Fullstack Developer</p>
                     </div>
                 </div>
-                <button className="btn">Download Resume</button>
+                <a href={myResume} className='btn' download="CompletedResume.pdf"> Download My Resume </a>
             </div>
         </div>
     )
