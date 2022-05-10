@@ -46,7 +46,7 @@ const blogs = [
         image: blog5,
         title: 'UI/UX Design Starter with Figma',
         link: 'https://www.facebook.com/',
-        date : '09',
+        date : '19',
         month: 'Sep',
         year: '2019'
     },

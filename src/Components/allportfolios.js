@@ -1,5 +1,5 @@
-import port1 from '../img/portImages/maya-1.jpg';
-import port2 from '../img/portImages/port1.jpg';
+import port1 from '../img/portImages/AmazonClone.png';
+import port2 from '../img/portImages/NetflixClone.png';
 import port3 from '../img/portImages/port2.jpg';
 import port4 from '../img/portImages/port3.jpg';
 import port6 from '../img/portImages/port5.jpg';
@@ -11,8 +11,8 @@ const portfolios = [
         category: 'React Js',
         link1: 'https://ecom-store-cs94.web.app/',
         link2: 'https://github.com/ChristianSmith2394/ecom-store',
-        icon1: 'W',
-        icon2: 'G',
+        icon1: 'Website',
+        icon2: 'GitHub',
         image: port1,
         title: 'Amazon Clone'
     },
@@ -21,8 +21,8 @@ const portfolios = [
         category: 'React Js',
         link1: 'https://netflix-clone-2374a.web.app/',
         link2: 'https://github.com/ChristianSmith2394/netflix-clone',
-        icon1: 'W',
-        icon2: 'G',
+        icon1: 'Website',
+        icon2: 'GitHub',
         image: port2,
         title: 'Netflix Clone'
     },
