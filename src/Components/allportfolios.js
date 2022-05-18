@@ -10,7 +10,8 @@ const portfolios = [
         icon1: 'Website',
         icon2: 'GitHub',
         image: port1,
-        title: 'Amazon Clone'
+        title: 'Amazon Clone',
+        description: 'A fully functioning Amazon reproduction'
     },
     {
         id: 2,
@@ -20,7 +21,8 @@ const portfolios = [
         icon1: 'Website',
         icon2: 'GitHub',
         image: port2,
-        title: 'Netflix Clone'
+        title: 'Netflix Clone',
+        description: 'A representation of Netflix homepage'
     }
 ]
 
