@@ -1,9 +1,5 @@
 import port1 from '../img/portImages/AmazonClone.png';
 import port2 from '../img/portImages/NetflixClone.png';
-import port3 from '../img/portImages/port2.jpg';
-import port4 from '../img/portImages/port3.jpg';
-import port6 from '../img/portImages/port5.jpg';
-import port7 from '../img/portImages/port6.jpg';
 
 const portfolios = [
     {
