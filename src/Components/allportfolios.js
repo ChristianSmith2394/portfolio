@@ -1,5 +1,6 @@
 import port1 from '../img/portImages/AmazonClone.png';
 import port2 from '../img/portImages/NetflixClone.png';
+import port3 from '../img/portImages/Calculator.png'
 
 const portfolios = [
     {
@@ -22,7 +23,18 @@ const portfolios = [
         icon2: 'GitHub',
         image: port2,
         title: 'Netflix Clone',
-        description: 'A representation of Netflix homepage'
+        description: `A representation of Netflix's homepage`
+    },
+    {
+        id: 2,
+        category: 'React Js',
+        link1: '',
+        link2: 'https://github.com/ChristianSmith2394/calculator',
+        icon1: 'Website',
+        icon2: 'GitHub',
+        image: port3,
+        title: 'Calculator',
+        description: 'A simple stylish calculator'
     }
 ]
 
