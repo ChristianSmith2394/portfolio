@@ -1,6 +1,7 @@
 import port1 from '../img/portImages/AmazonClone.png';
 import port2 from '../img/portImages/NetflixClone.png';
 import port3 from '../img/portImages/Calculator.png'
+import port4 from '../img/portImages/Todo.png'
 
 const portfolios = [
     {
@@ -26,7 +27,7 @@ const portfolios = [
         description: `A representation of Netflix's homepage`
     },
     {
-        id: 2,
+        id: 3,
         category: 'React Js',
         link1: '',
         link2: 'https://github.com/ChristianSmith2394/calculator',
@@ -35,6 +36,17 @@ const portfolios = [
         image: port3,
         title: 'Calculator',
         description: 'A simple stylish calculator'
+    },
+    {
+        id: 4,
+        category: 'React Js',
+        link1: '',
+        link2: 'https://github.com/ChristianSmith2394/to-do',
+        icon1: 'Website',
+        icon2: 'GitHub',
+        image: port4,
+        title: 'Todo App',
+        description: 'A simple todo application'
     }
 ]
 
