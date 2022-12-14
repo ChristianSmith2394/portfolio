@@ -3,6 +3,7 @@ import port2 from "../img/portImages/NetflixClone.png";
 import port3 from "../img/portImages/Calculator.png";
 import port4 from "../img/portImages/Todo.png";
 import port5 from "../img/portImages/Flights.png";
+import port6 from "../img/portImages/Hangman.png";
 
 const portfolios = [
   {
@@ -57,8 +58,19 @@ const portfolios = [
     icon1: "Website",
     icon2: "GitHub",
     image: port5,
-    title: "Todo App",
-    description: "A simple todo application",
+    title: "Flight Scheduler",
+    description: "A way to search for flights and prices anywhere in the world",
+  },
+  {
+    id: 5,
+    category: "TypeScript",
+    link1: "https://hangman-tsx.web.app/",
+    link2: "https://github.com/ChristianSmith2394/hangman",
+    icon1: "Website",
+    icon2: "GitHub",
+    image: port6,
+    title: "Hangman Game",
+    description: "A simple way to play Hangman online",
   },
 ];
 
